@@ -1,0 +1,78 @@
+RevX Interview Questions
+=================================
+
+1st round
+1. Given an array of strings print anagrams together
+2. Given time in numbers like 11:30
+We have to print 30 mins past 11'o clock
+
+------------------------------
+2nd round
+1.
+Given 2d array
+Print diagonally 
+
+Ex
+1 2 3
+4 5 6
+7 8 9
+
+We have to print 1 2 4 7 5 3 6 8 9
+
+2nd question
+Stream of numbers
+Find running median
+
+------------------------------
+
+3rd round lo
+1. Given string like aabbccc  
+Make string such that no two same characters are consecutive
+Like cbcbaca
+
+2. Next qsn
+Given expression (a+b-(c-(d-e)))
+Print a+b-c+d-e by removing brackets
+Only + - will come in given input expression
+------------------------------
+
+Puzzles
+1. Banana puzzle 
+2.Given cube painted on all sides
+Is cut in to 27 small cubes
+Tell no of cubes with two sides painted
+
+
+
+
+Another interview
+==========================
+
+
+1st round
+1. Given an array of strings print anagrams together
+2. Given time in numbers like 11:30
+We have to print 30 mins past 11'o clock
+
+------------------------------
+
+2nd round
+Given an array of strings print anagrams together in O(n) without extra space.
+Print tree in spiral form
+Print median of stream with fixed size of n
+singleton class, how it will be implemented
+create a immutable class
+how to optimize query when three conditions are given like 
+select from table XYZ where a1 =  , a2 = , a3 = ;
+
+------------------------------
+
+3rd round
+Find unique number in Integer array of having duplicates in O(n)
+Find the number missing from a set of sequence numbers in array
+getmin() function for stack in O(1). how this is implemented
+Print the pair of numbers where sum = 12 from the integer array in O(nlogn)
+ABCDEF1 * Y = 1ABCDEF. All are unique digits. find digits.
+
+
+

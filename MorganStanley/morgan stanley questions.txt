@@ -1,0 +1,7 @@
+1st Round - Telefonic Interview
+
+1.Lamda Expression implementation and why it was introduced.
+2.HashMap working for keys 5,9,15,29 with hashing function of key%10; how rehashing happens when we have defined our own hashcode().
+3.SQL query to get name, 3rd highest marks of student from two tables T1 (id, name) T2(id, marks).
+4.A.jar and B.jar having same package, same class, same method with same access specifiers. 
+If we call that method from different class, then which one will it execute?
